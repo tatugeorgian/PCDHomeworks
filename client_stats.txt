@@ -1,0 +1,108 @@
+Used protocol : UDP
+Used mechanism : streaming
+Message size : 1000
+Number of sent messages : 500000
+Number of sent bytes : 500000000
+Transmission time : 1268659942 nanoseconds
+End of log
+
+
+Used protocol : UDP
+Used mechanism : stop and wait
+Message size : 1000
+Number of sent messages : 500000
+Number of sent bytes : 500000000
+Transmission time : 1106107142 nanoseconds
+End of log
+
+
+Used protocol : TCP
+Used mechanism : streaming
+Message size : 1000
+Number of sent messages : 500000
+Number of sent bytes : 500000000
+Transmission time : 391937020 nanoseconds
+End of log
+
+
+Used protocol : TCP
+Used mechanism : stop and wait
+Message size : 1000
+Number of sent messages : 500000
+Number of sent bytes : 500000000
+Transmission time : 4027256766 nanoseconds
+End of log
+
+
+Used protocol : UDP
+Used mechanism : streaming
+Message size : 10000
+Number of sent messages : 50000
+Number of sent bytes : 500000000
+Transmission time : 312302952 nanoseconds
+End of log
+
+
+Used protocol : UDP
+Used mechanism : stop and wait
+Message size : 10000
+Number of sent messages : 50000
+Number of sent bytes : 500000000
+Transmission time : 289279744 nanoseconds
+End of log
+
+
+Used protocol : TCP
+Used mechanism : streaming
+Message size : 10000
+Number of sent messages : 50000
+Number of sent bytes : 500000000
+Transmission time : 239049484 nanoseconds
+End of log
+
+
+Used protocol : TCP
+Used mechanism : stop and wait
+Message size : 10000
+Number of sent messages : 50000
+Number of sent bytes : 500000000
+Transmission time : 663790456 nanoseconds
+End of log
+
+
+Used protocol : UDP
+Used mechanism : streaming
+Message size : 60000
+Number of sent messages : 8334
+Number of sent bytes : 500000000
+Transmission time : 197560783 nanoseconds
+End of log
+
+
+Used protocol : UDP
+Used mechanism : stop and wait
+Message size : 60000
+Number of sent messages : 8334
+Number of sent bytes : 500000000
+Transmission time : 194433685 nanoseconds
+End of log
+
+
+Used protocol : TCP
+Used mechanism : streaming
+Message size : 60000
+Number of sent messages : 8334
+Number of sent bytes : 500000000
+Transmission time : 211202931 nanoseconds
+End of log
+
+
+Used protocol : TCP
+Used mechanism : stop and wait
+Message size : 60000
+Number of sent messages : 8334
+Number of sent bytes : 500000000
+Transmission time : 314806017 nanoseconds
+End of log
+
+
